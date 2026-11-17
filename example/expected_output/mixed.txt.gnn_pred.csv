@@ -1,0 +1,5 @@
+name,sequence,structure,structure_source,nupack_mfe_energy,length,dH_pred_kcal_mol,Tm_pred_C,dG37_pred_kcal_mol,in_train_length_range,status
+mixed_1,CAACCAGAAATGGTTG,((((((....)))))),nupack_mfe,-5.38,16,-32.178,52.567,-1.538,True,ok
+hp_gc_rich,GGGCGCAAAGCGCCC,((((((...)))))),nupack_mfe,-6.83,15,-24.907,78.591,-2.945,True,ok
+hp_at_rich,AATATTTAAATATT,(((((....))))),nupack_mfe,-0.59,14,-13.776,26.187,0.498,True,ok
+bad_example,ACGTXXNN,,nupack_mfe,,8,,,,False,"invalid_sequence(ACGT only, len>=4)"

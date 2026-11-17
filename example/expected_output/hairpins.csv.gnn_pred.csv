@@ -1,0 +1,13 @@
+name,sequence,structure,structure_source,nupack_mfe_energy,length,dH_pred_kcal_mol,Tm_pred_C,dG37_pred_kcal_mol,in_train_length_range,status
+BNN582,CGCTAGCGGAAACGCGCG,(((..(((....)))))),nupack_mfe,-4.52,18,-20.793,53.101,-1.026,True,ok
+BNNN1841,GAGCGCGAAAGCGACTC,...(((....)))....,nupack_mfe,-4.942,17,-19.788,44.296,-0.455,True,ok
+BNNN3802,GTTAACCCGAAAGGGAAC,.....(((....)))...,nupack_mfe,-4.403,18,-17.719,35.262,0.1,True,ok
+BNNN6714,GGGGCTCCGAAAGGACCC,.(((.(((....)))))),nupack_mfe,-3.629,18,-31.524,56.016,-1.821,True,ok
+BNNN7676,GGCGTCCCGAAAGGGGCC,(((..(((....)))))),nupack_mfe,-3.46,18,-12.204,53.276,-0.609,True,ok
+BNNN8869,GCTCTCGAAAGAGTGAGC,.(.(((....))).)...,nupack_mfe,-2.782,18,-18.8,32.67,0.266,True,ok
+BNNN8883,GCTCGCGAAAGCGAAAGC,...(((....))).....,nupack_mfe,-4.838,18,-13.661,34.543,0.109,True,ok
+MMACP1063,GTGCACGGAAACGCACAC,((((........))))..,nupack_mfe,-2.595,18,-14.706,34.674,0.111,True,ok
+MMACP1478,GGACCCGGAAACGAGTCC,((((.((....)).)))),nupack_mfe,-3.75,18,-35.72,48.462,-1.273,True,ok
+MMACP1677,GGGTACGGAAACGCACCC,((((.((....)).)))),nupack_mfe,-4.5,18,-41.982,52.313,-1.975,True,ok
+MMACP1711,GGGCATGGAAACACGCCC,((((.((....)).)))),nupack_mfe,-4.45,18,-41.226,51.582,-1.851,True,ok
+MMACP2074,GGCCAGGGAAACCTGACC,...((((....))))...,nupack_mfe,-4.955,18,-13.286,26.71,0.456,True,ok

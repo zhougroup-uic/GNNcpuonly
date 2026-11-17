@@ -1,0 +1,5 @@
+# plain text: "name sequence" or just a sequence per line
+CAACCAGAAATGGTTG
+hp_gc_rich GGGCGCAAAGCGCCC
+hp_at_rich AATATTTAAATATT
+bad_example ACGTXXNN

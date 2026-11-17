@@ -1,0 +1,13 @@
+name,sequence,structure,structure_source,nupack_mfe_energy,length,dH_pred_kcal_mol,Tm_pred_C,dG37_pred_kcal_mol,in_train_length_range,status
+MMACP2465,GCGCCGGGAAACCGACGC,(((.(((....))).))),input,,18,-41.646,59.719,-2.842,True,ok
+MMCNN187,CGCTCCGGAAACGGTGCG,(((.(((....))).))),input,,18,-42.851,58.358,-2.761,True,ok
+MMCNNN1031,GTTGTTCGAAAGAAGAAC,(((.(((....))).))),input,,18,-29.326,41.379,-0.408,True,ok
+MMCNNN579,GACCAACGAAAGTTAGTC,(((.(((....))).))),input,,18,-25.224,38.049,-0.085,True,ok
+MMCNNN847,GTATTGCGAAAGCATTAC,(((.(((....))).))),input,,18,-24.251,44.72,-0.589,True,ok
+MMCNNN925,GTAACTCGAAAGAGCTAC,(((.(((....))).))),input,,18,-27.435,39.396,-0.21,True,ok
+MMGTP1042,GTGTAGGGAAACCTGCAC,(((.(((....))).))),input,,18,-36.75,49.357,-1.408,True,ok
+MMGTP2838,GGAATGGGAAACCGTTTC,(.((.((....)).)).),input,,18,-18.541,31.23,0.351,True,ok
+MMTM2258,GCGACGCGAAAGCGAGGC,((..(((....)))..)),input,,18,-16.609,55.246,-0.923,True,ok
+MMTM231,GCATTGCGAAAGCGGTGC,(((..((....))..))),input,,18,-22.51,54.21,-1.183,True,ok
+TRINNN496,GATCTCGAAGAGATC,((((((...)))))),input,,15,-36.985,64.825,-3.045,True,ok
+WC544,GAGCTTGAAAAAGCTC,((((((....)))))),input,,16,-36.176,58.403,-2.335,True,ok

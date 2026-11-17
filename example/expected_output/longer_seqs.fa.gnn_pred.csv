@@ -1,0 +1,4 @@
+name,sequence,structure,structure_source,nupack_mfe_energy,length,dH_pred_kcal_mol,Tm_pred_C,dG37_pred_kcal_mol,in_train_length_range,status
+long_26nt,ATTACGTAATGGCCAAATTACGTAAT,((((((((((......)))))))))),nupack_mfe,-6.52,26,-46.612,52.835,-2.264,False,ok
+long_30nt,GATCATTACGTAATGGCCAAATTACGTAAT,....((((((((((......)))))))))),nupack_mfe,-7.192,30,-28.886,39.116,-0.196,False,ok
+long_40nt,GATCATTACGTAATCAGGCATAAATCAACGATTACGTAAT,....(((((((((((..............))))))))))),nupack_mfe,-8.092,40,-17.624,29.834,0.417,False,ok

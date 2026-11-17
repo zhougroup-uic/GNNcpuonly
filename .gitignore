@@ -1,0 +1,17 @@
+# created by install.sh
+/venv/
+/nnn_paper/
+/nnn_data/
+/bin/
+/downloads/
+/third_party/
+/gnn_core.py
+/train_stats.json
+/run_gnn_infer_cpu.slabmk
+# misc
+__pycache__/
+*.pyc
+slurm-*.out
+gnn_pred/
+gnn_example/
+*.sw?
